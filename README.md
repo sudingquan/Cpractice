@@ -1,1 +1,5 @@
 # Cpractice
+```bash
+.
+└── README.md
+```
