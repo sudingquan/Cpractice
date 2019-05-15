@@ -1,6 +1,7 @@
 # Cpractice
-```bash
+```
 .
 ├── README.md
-└── getusername.c
+├── getusername.c
+└── net.c
 ```
